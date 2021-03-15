@@ -1,13 +1,13 @@
 // Write your JS in here
 var pics = [
-	"img/p1.jpg", //0
-	"img/p2.jpg", //1
-	"img/p3.jpg", //2
-	"img/p4.jpg", //3
-	"img/p5.jpg", //4
-	"img/p6.jpg", //5
-	"img/p7.jpg"  //6
-	              //7
+	"p1.jpg", //0
+	"p2.jpg", //1
+	"p3.jpg", //2
+	"p4.jpg", //3
+	"p5.jpg", //4
+	"p6.jpg", //5
+	"p7.jpg"  //6
+              //7
 ];
 
 var btn = document.querySelector("button");
