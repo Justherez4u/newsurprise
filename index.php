@@ -1,5 +1,5 @@
 <?php
 
-include_once("mew.html");
+include_once("new.html");
 
 ?>
